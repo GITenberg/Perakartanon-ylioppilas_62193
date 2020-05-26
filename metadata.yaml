@@ -1,0 +1,29 @@
+_repo: Perakartanon-ylioppilas_62193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Järvi, K. A. (Kaarlo August)
+    aliases:
+    - Mallinen, Carl August
+    - Järvi, Kaarlo August
+    - Järvi, Karl August
+    - Jarvi, K. A. (Kaarlo August)
+    - Mällinen, Carl August
+    birthdate: 1869
+    deathdate: 1942
+    gutenberg_agent_id: '44518'
+    url: http://www.gutenberg.org/2009/agents/44518
+    wikipedia: https://fi.wikipedia.org/wiki/K._A._J%C3%A4rvi
+description: ''
+gutenberg_issued: '2020-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62193'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Peräkartanon ylioppilas
+url: http://www.gutenberg.org/ebooks/62193
